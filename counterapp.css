@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10px;
+    width: 40%;
+    height: 50%;
+    margin-left: 30px;
+}
+
+.container {
+    background-color: rgba(105, 105, 187, 0.329);
+    text-align: center;
+    padding: 3px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    padding-bottom: 30px;
+
+}
+
+#Number {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: rgb(18, 18, 92);
+}
+
+.button {
+    font-size: 15px;
+
+}
+
+#decrease {
+    font-size: 25px;
+    padding: 15px;
+    margin-right: 45px;
+    border-radius: 2px;
+    color: aliceblue;
+    background-color: rgb(72, 100, 81);
+    
+}
+
+#increase {
+    font-size: 25px;
+    padding: 15px;
+    margin-left: 45px;
+    border-radius: 2px;
+    color: aliceblue;
+    background-color: rgb(72, 100, 81);
+}
+
+#increase:hover {
+    color: rgba(235, 219, 6, 0.849);
+}
+
+#decrease:hover {
+    color: rgba(235, 219, 6, 0.849);
+}
+
+#zero {
+    font-size: 25px;
+    color: aliceblue;
+    background-color: rgb(72, 100, 81);
+    padding: 15px;
+    justify-content: center;
+    border-radius: 2px;
+}
+
+#setbutton {
+    font-size: 25px;
+    color: aliceblue;
+    background-color: rgb(72, 100, 81);
+    padding: 15px;
+    justify-content: center;
+    border-radius: 2px;
+    margin-top: 50px;
+    margin-left: 22px;
+}
+
+#setbutton:hover {
+    color: rgba(235, 219, 6, 0.849);
+}
+
+
+
+
+.count {
+    font-size: 45px;
+}
+
+#message{
+    font-size: 25px;
+       
+}
